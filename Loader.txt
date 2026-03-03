@@ -1,1 +1,1 @@
-dofile("http://nomona.fit/BootstrapperAPI/GetJoinScript.php?token=hitUVbxNyC&gameId=1&port=53640")
+dofile("https://raw.githubusercontent.com/christian-combineV2OFFICIAL/Nomana/refs/heads/main/lukashenka.txt")
