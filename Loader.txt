@@ -1,0 +1,1 @@
+dofile("http://nomona.fit/BootstrapperAPI/GetJoinScript.php?token=hitUVbxNyC&gameId=1&port=53640")
